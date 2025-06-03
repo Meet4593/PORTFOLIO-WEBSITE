@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e9db35f-2862-432a-91a4-3fe6f092687f)#  PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS
+#  PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
@@ -27,4 +27,13 @@ Performance and accessibility are also key considerations in the development of 
 In conclusion, this portfolio website is much more than a static resume—it is a living, interactive demonstration of the developer’s technical expertise, design sensibility, and commitment to delivering high-quality digital experiences. It stands as a testament to their ability to build, deploy, and maintain professional-grade web applications, making it an invaluable asset for career growth, networking, and personal branding in the competitive field of web development.
 
 *OUTPUT:
+![image](https://github.com/user-attachments/assets/0e9db35f-2862-432a-91a4-3fe6f092687f)
+
+![image](https://github.com/user-attachments/assets/34ef3e19-9de2-4916-9d82-ddbe1cbad88b)
+
+![image](https://github.com/user-attachments/assets/1393e8bd-6b61-414a-86a8-abdf4a1a99e8)
+
+![image](https://github.com/user-attachments/assets/100950b8-43e9-4959-aeb3-67d9cece2596)
+
+
 
